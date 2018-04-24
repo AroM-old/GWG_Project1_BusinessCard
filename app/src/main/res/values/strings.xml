@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">GwG_Project1_BusinessCard</string>
+    <string name="phoneNumber">+49 0911 232423</string>
+    <string name="menuWeb">pizzahut.de</string>
+    <string name="addressPH">Breite G. 35, 90402 Nürnberg</string>
+    <string name="description">Family-friendly chain known for its made-to-order pizzas.</string>
 </resources>
