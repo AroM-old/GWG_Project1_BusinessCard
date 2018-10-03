@@ -1,2 +1,2 @@
-# GWG_Project1_BusinessCard
-Udacity nanodegree program project one. A business card with name, hours, image, description and website of a local business.
+# Android Basics Nanodegree by Google - Project One
+Design and implement a single screen app that displays information about a small business that you are closely familiar with.
